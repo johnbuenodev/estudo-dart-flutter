@@ -1,0 +1,17 @@
+
+DOIS PROCESSOS de compilação
+
+JRT - JUST IN TIME   (HOT-RELOAD)
+
+EOT - EDGE OF TIME (Quando compilando para gerar o executavel)
+
+--------------
+
+
+SDK - KIT DESENVOLVIMENTO DO DART - BAIXAR
+
+--------------
+
+
+
+
